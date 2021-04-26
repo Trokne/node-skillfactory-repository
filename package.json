@@ -1,0 +1,25 @@
+{
+  "name": "node-skillfactory-repository",
+  "version": "1.0.0",
+  "description": "Учебный репозиторий для одного из заданий на Skillfactory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trokne/node-skillfactory-repository.git"
+  },
+  "keywords": [
+    "skillfactory"
+  ],
+  "author": "m.vshivkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trokne/node-skillfactory-repository/issues"
+  },
+  "homepage": "https://github.com/Trokne/node-skillfactory-repository#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
